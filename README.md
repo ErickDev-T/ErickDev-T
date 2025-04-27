@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hi there! I'm Erick — a passionate developer focused on building efficient, creative, and impactful software solutions.
+Hi there! I'm Erick a passionate developer focused on building efficient, creative, and impactful software solutions.
 I love working on projects that solve real-world problems, whether it's through web development, desktop applications, or database management.
 
 🔭 Currently working on projects with C#, SQL Server, and WinForms.
@@ -24,9 +24,18 @@ I love working on projects that solve real-world problems, whether it's through 
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
  
+</span>
 
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </span>
+
 
 
 <!--
