@@ -6,7 +6,7 @@
 Hi there! I'm Erick a passionate developer focused on building efficient, creative, and impactful software solutions.
 I love working on projects that solve real-world problems, whether it's through web development, desktop applications, or database management.
 
-🔭 Currently working on projects with C#, SQL Server, and WinForms.
+🔭 Currently working on projects with C#, SQL Server, WinForms etc..
 
 🌱 Always learning new technologies, especially in design, back-end development, and software architecture.
 
