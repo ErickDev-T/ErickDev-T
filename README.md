@@ -10,7 +10,7 @@ I love working on projects that solve real-world problems, whether it's through 
 
 🌱 Always learning new technologies, especially in design, back-end development, and software architecture.
 
-🎨 I also have a background in graphic design, which helps me bring a creative touch to my work.
+⚡ I also have a background in electronics, which allows me to bring an innovative and technical perspective to my work.
 
 
 <h4> Languages </h4>
