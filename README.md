@@ -39,6 +39,5 @@ I love working on projects that solve real-world problems, whether it's through 
 
 
 
-<!--
-
+![Tus stats](https://github-readme-stats.vercel.app/api?username=ErickDev-T&show_icons=true&theme=radical)
 -->
