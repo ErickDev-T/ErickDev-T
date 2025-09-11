@@ -37,7 +37,7 @@ I love working on projects that solve real-world problems, whether it's through 
 
 </span>
 
+<br/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDev-T&layout=compact&langs_count=8&bg_color=30,0f2027,2c5364&title_color=fff&text_color=fff&hide_border=true)
--->
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ErickDev-T&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDev-T&layout=compact&langs_count=10&theme=tokyonight) |
+| ------------- | ------------- |
