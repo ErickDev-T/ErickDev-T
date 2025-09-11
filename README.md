@@ -38,6 +38,8 @@ I love working on projects that solve real-world problems, whether it's through 
 </span>
 
 <br/>
+<br/>
+
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=ErickDev-T&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDev-T&layout=compact&langs_count=10&theme=tokyonight) |
 | ------------- | ------------- |
